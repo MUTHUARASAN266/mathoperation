@@ -45,7 +45,7 @@ afterEvaluate {
             release(MavenPublication){
                 from components.release
                 groupId = 'com.info'
-                artifactId = 'mathematical_operation'
+                artifactId = 'mathoperation'
                 version = '1.0'
                 //'com.info:mathematical_operation:1.0'
             }
